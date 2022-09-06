@@ -74,7 +74,20 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 | 3. The long format | `3-listfiles` | Display current directory contents in a long format |
 | 4. Hidden files | `4-listmorefiles` | Display current directory contents, including hidden files using long format |
 | 5. I love numbers | `5-listfilesdigitonly` | Display current directory contents |
-
+| 6. Welcome | `6-firstdirectory` | Create a directory in` /tmp` directory |
+| 7. Betty in my first directory | `7-movethatfile` | Move the file betty from` /tmp/` to `/tmp/my_first_directory` |
+| 8. Bye bye Betty | `8-firstdelete` | Delete the file betty |
+| 9. Bye bye My first directory | `9-firstdirdeletion` | Delete the directory `my_first_directory` that is in the /tmp directory |
+| 10. Back to the future | `10-back` | Change the working directory to the previous one |
+| 11. Lists | `11-lists` | List all file including hidden ones |
+| 12. File type | `12-file_type` | Print the type of the file named `iamafile` |
+| 13. We are symbols, and inhabit symbols | `13-symbolic_link` | A symbolic link in the current working directory |
+| 14. Copy HTML files | `14-copy_html` | Copy all the HTML files |
+| 15. Let’s move | `100-lets_move` | Move all files |
+| 16. Clean Emacs | `101-clean_emacs` | Delete all files |
+| 17. Tree | `102-tree` | Directory tree in the current directory |
+| 18. Life is a series of commas, not periods | `103-commas` | Separate by commas `(,)` |
+| 19. File type: School | `school.mgc` | Magic file |
 
 
 
