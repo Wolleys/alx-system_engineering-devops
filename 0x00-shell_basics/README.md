@@ -65,6 +65,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * All your scripts must be executable. To make your file executable, use the `chmod` command: `chmod u+x file`.
 
 # Tasks
+Projects table
 
 | Task Name  | Script Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
