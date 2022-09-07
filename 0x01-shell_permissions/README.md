@@ -27,7 +27,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * The first line of all your files should be exactly `#!/bin/bash`
 * A `README.md` file, at the root of the folder of this project, describing what each script is doing
 * You are not allowed to use backticks, `&&`, `||` or `;`
-* All your scripts must be executable.
+* All your scripts must be executable
 
 # Tasks
 Projects table
@@ -51,4 +51,4 @@ Projects table
 | 14. Owner and group | `100-change_owner_and_group` | Change owner and group |
 | 15. Symbolic links | `101-symbolic_link_permissions` | Change the owner and the group owner |
 | 16. If only | `102-if_only` | Change the owner of the file `hello` to `betty` |
-| 17. Star Wars | `103-Star_Wars` | Play StarWars IV episode in the terminal |
+| 17. Star Wars | `103-Star_Wars` | Play StarWars IV episode in the terminal | 
