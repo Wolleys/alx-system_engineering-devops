@@ -56,3 +56,16 @@ Projects table
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
 | 0. `<o>`  | `0-alias`  | Create an alias |
+| 1. Hello you | `1-hello_you` | Print `hello user`, where user is the current Linux user |
+| 2. The path to success is to take massive, determined action | `2-path` | Add `/action` to the `PATH` |
+| 3. If the path be beautiful, let us not ask where it leads | `3-paths` | Count the number of directories in the `PATH` |
+| 4. Global variables | `4-global_variables` | List environment variables |
+| 5. Local variables | `5-local_variables` | List all |
+| 6. Local variable | `6-create_local_variable` | Create a new local variable |
+| 7. Global variable | `7-create_global_variable` | Create a new global variable |
+| 8. Every addition to true knowledge is an addition to human power | `8-true_knowledge` | Print the result of the addition |
+| 9. Divide and rule | `9-divide_and_rule` | Print the result of `POWER` divided by `DIVIDE` |
+| 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath | `10-love_exponent_breath` | Display the result of `BREATH` to the power `LOVE` |
+
+
+
