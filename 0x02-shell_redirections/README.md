@@ -68,4 +68,4 @@ Projects table
 | 23. Empty casks make the most noise | `100-empty_casks` | Find all empty files and directories |
 | 24. A gif is worth ten thousand words | `101-gifs` | List all the files with a `.gif` extension |
 | 25. Acrostic | `102-acrostic` | Decode acrostics that use the first letter of each line |
-| 26. The biggest fan | `103-the_biggest_fan` | Parse web servers logs |
+| 26. The biggest fan | `103-the_biggest_fan` | Parse web servers logs | 
