@@ -66,6 +66,10 @@ Projects table
 | 8. Every addition to true knowledge is an addition to human power | `8-true_knowledge` | Print the result of the addition |
 | 9. Divide and rule | `9-divide_and_rule` | Print the result of `POWER` divided by `DIVIDE` |
 | 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath | `10-love_exponent_breath` | Display the result of `BREATH` to the power `LOVE` |
-
-
-
+| 11. There are 10 types of people in the world -- Those who understand binary, and those who don't | `11-binary_to_decimal` | Convert a number from base 2 to base 10 |
+| 12. Combination | `12-combinations` | Print all possible combinations of two letters |
+| 13. Floats | `13-print_float` | Print a number with two decimal places |
+| 14. Decimal to Hexadecimal | `100-decimal_to_hexadecimal` | Convert a number from base 10 to base 16 |
+| 15. Everyone is a proponent of strong encryption | `101-rot13` | Encode and decode text using the rot13 encryption |
+| 16. The eggs of the brood need to be an odd number | `102-odd` | Print every other line from the input, starting with the first line |
+| 17. I'm an instant star. Just add water and stir | `103-water_and_stir` | Add the two numbers stored |
