@@ -34,9 +34,21 @@ Projects table
 
 | Task Name  | Script Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
-| 0. My name is Betty  | `0-iam_betty`  | Switch the current user to the user betty |
+| 0. My name is Betty  | `0-iam_betty`  | Switch the current user to the user `betty` |
 | 1. Who am I | `1-who_am_i` | Print the effective username of the current user |
 | 2. Groups | `2-groups` | Print all the groups the current user is part of |
-| 3. New owner | `3-new_owner` | Change the owner of the file hello to the user betty |
-| 4. Empty! | `4-empty` | Create an empty file called hello |
-| 5. Execute | `5-execute` | Add execute permission to the owner of the file hello |
+| 3. New owner | `3-new_owner` | Change the owner of the file `hello` to the user `betty` |
+| 4. Empty! | `4-empty` | Create an empty file called `hello` |
+| 5. Execute | `5-execute` | Add execute permission to the owner of the file `hello` |
+| 6. Multiple permissions | `6-multiple_permissions` | Multiple permissions |
+| 7. Everybody! | `7-everybody` | Execution permission everybody to the file `hello` |
+| 8. James Bond | `8-James_Bond` | Set permissions to the file `hello` as follows: |
+| 9. John Doe | `9-John_Doe` | Set the mode of the file `hello` to this: |
+| 10. Look in the mirror | `10-mirror_permissions` | Set the mode of the file `hello` the same as `olleh`’s mode |
+| 11. Directories | `11-directories_permissions` | Add execute permission to all subdirectories |
+| 12. More directories | `12-directory_permissions` | Create a directory |
+| 13. Change group | `13-change_group` | Change the group owner to `school` for the file `hello` |
+| 14. Owner and group | `100-change_owner_and_group` | Change owner and group |
+| 15. Symbolic links | `101-symbolic_link_permissions` | Change the owner and the group owner |
+| 16. If only | `102-if_only` | Change the owner of the file `hello` to `betty` |
+| 17. Star Wars | `103-Star_Wars` | Play StarWars IV episode in the terminal |
