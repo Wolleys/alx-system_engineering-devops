@@ -89,9 +89,3 @@ Projects table
 | 17. Tree | `102-tree` | Directory tree in the current directory |
 | 18. Life is a series of commas, not periods | `103-commas` | Separate by commas `(,)` |
 | 19. File type: School | `school.mgc` | Magic file |
-
-
-
-
-
-
