@@ -40,7 +40,7 @@ Note: You do not have to learn about `fmt`, `pr`, `du`, `gzip`, `tar`, `lpr`, `s
 # Tasks
 Projects table
 
-| Task Name  | Script Name | Description |
+| Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
 | 0. Hello World  | `0-hello_world`  | Print “Hello, World” |
 | 1. Confused smiley | `1-confused_smiley` | Display a confused smiley `"(Ôo)'` |

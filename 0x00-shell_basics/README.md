@@ -67,7 +67,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 # Tasks
 Projects table
 
-| Task Name  | Script Name | Description |
+| Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
 | 0. Where am I?  | `0-current_working_directory`  | Print the absolute path name of the current working directory |
 | 1. What’s in there?| `1-listit` | Display the contents list of your current directory |
