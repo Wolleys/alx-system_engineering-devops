@@ -28,3 +28,9 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # Tasks
 Tasks table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. Change your home IP | `0-change_your_home_IP` | Configure an Ubuntu server with the below requirements |
+| 1. Show attached IPs | `1-show_attached_IPs` | Display all active IPv4 IPs on the machine |
+| 2. Port listening on localhost | `100-port_listening_on_localhost` | Listen on port `98` on `localhost` |
