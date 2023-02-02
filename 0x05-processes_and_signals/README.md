@@ -34,3 +34,18 @@ For those who want to know more and learn about all signals, check out [this art
 
 # Tasks
 Tasks table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. What is my PID | `0-what-is-my-pid` | Display own PID |
+| 1. List your processes | `1-list_your_processes` | Display a list of currently running processes |
+| 2. Show your Bash PID | `2-show_your_bash_pid` | Display lines containing the `bash` word |
+| 3. Show your Bash PID made easy | `3-show_your_bash_pid_made_easy` | Display the PID, along with the process name |
+| 4. To infinity and beyond | `4-to_infinity_and_beyond` | Display To infinity and beyond indefinitely |
+| 5. Don't stop me now! | `5-dont_stop_me_now` | Stop `4-to_infinity_and_beyond` process |
+| 6. Stop me if you can | `6-stop_me_if_you_can` | Stop `4-to_infinity_and_beyond` process |
+| 7. Highlander | `7-highlander` | Display `To infinity and beyond` indefinitely |
+| 8. Beheaded process | `8-beheaded_process` | Kill the process `7-highlander` |
+| 9. Process and PID file | `100-process_and_pid_file` | Create the file `/var/run/myscript.pid` containing its PID |
+| 10. Manage my process | `101-manage_my_process, manage_my_process` | A `manage_my_process` Bash script that |
+| 11. Zombie | `102-zombie.c` | A C program that creates 5 zombie processes |
