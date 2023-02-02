@@ -60,3 +60,12 @@ For multiple choice question type tasks, just type the number of the correct ans
 
 # Tasks
 Tasks table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. OSI model | `0-OSI_model` | The OSI model |
+| 1. Types of network | `1-types_of_network` | Types of networks |
+| 2. MAC and IP address | `2-MAC_and_IP_address` | MAC and IP address |
+| 3. UDP and TCP | `3-UDP_and_TCP` | `UDP and TCP` |
+| 4. TCP and UDP ports | `4-TCP_and_UDP_ports` | Display listening ports |
+| 5. Is the host on the network | `5-is_the_host_on_the_network` | Ping an IP address passed as an argument |
