@@ -17,14 +17,14 @@
 	* [What is a Web Server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server)
 
 4. DNS
-	1. Basics
+1. Basics
 	- [Learn everything about DNS in cartoon](https://howdns.works)
 	- [A Records](https://support.dnsimple.com/articles/a-record/)
 	- [CNAME record](https://en.wikipedia.org/wiki/CNAME_record)
 	- [MX record](https://en.wikipedia.org/wiki/MX_record)
 	- [TXT record](https://en.wikipedia.org/wiki/TXT_record)
 
-	2. Advanced
+2. Advanced
 	- [Use DNS to scale with round-robin DNS](https://www.dnsknowledge.com/whatis/round-robin-dns/)
 	- [What’s an NS Record?](https://support.dnsimple.com/articles/ns-record/)
 	- [What’s an SOA Record?](https://support.dnsimple.com/articles/soa-record/)
