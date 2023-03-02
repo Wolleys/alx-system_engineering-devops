@@ -2,11 +2,6 @@
 
 # Resources
 
-<details>
-<summary>1. Network basics</summary>
-- [What is a protocol](https://www.techtarget.com/searchnetworking/definition/protocol)
-</details>
-
 1. Network basics
 	* [What is a protocol](https://www.techtarget.com/searchnetworking/definition/protocol)
 	* [What is an IP address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm)
