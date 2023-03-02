@@ -4,10 +4,10 @@
 
 <details>
 <summary>1. Network basics</summary>
-* [What is a protocol](https://www.techtarget.com/searchnetworking/definition/protocol)
-* [What is an IP address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm)
-* [What is TCP/IP](https://www.avast.com/c-what-is-tcp-ip#)
-* [What is an Internet Protocol (IP) port?](https://www.lifewire.com/port-numbers-on-computer-networks-817939)
+<p>[What is a protocol](https://www.techtarget.com/searchnetworking/definition/protocol)</p>
+<p>[What is an IP address](https://computer.howstuffworks.com/internet/basics/what-is-an-ip-address.htm)</p>
+<p>[What is TCP/IP](https://www.avast.com/c-what-is-tcp-ip#)</p>
+<p>[What is an Internet Protocol (IP) port?](https://www.lifewire.com/port-numbers-on-computer-networks-817939)</p>
 </details>
 
 1. Network basics
