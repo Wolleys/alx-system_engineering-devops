@@ -71,3 +71,10 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # Tasks
 Tasks table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. Simple web stack | `0-simple_web_stack` | A one server web infrastructure that hosts a website |
+| 1. Distributed web infrastructure | `1-distributed_web_infrastructure` | A three server web infrastructure |
+| 2. Secured and monitored web infrastructure | `2-secured_and_monitored_web_infrastructure` | A secured three server web infrastructure |
+| 3. Scale up | `3-scale_up` | Add load-balancer (HAproxy) configured as cluster |
