@@ -29,7 +29,7 @@ You do not need to attempt to upgrade versions. This project is simply a set of 
 
 [Puppet 5 Docs](https://www.puppet.com/docs/puppet/5.5/puppet_index.html)
 
-## Install puppet-lint
+## Install `puppet-lint`
 ```
 $ gem install puppet-lint
 ```
