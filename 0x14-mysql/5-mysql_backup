@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# A script that backsup mysql database
+
+if [ $# -ne 1 ]; then
+	echo "Usage: ./5-mysql_backup db_pass"
+else
+	mysqldump -u root -p"$1" -all-databases > backup.sql
+	tar -czf "$(date '+%d-%m-%Y')".tar.gz backup.sql
+fi
