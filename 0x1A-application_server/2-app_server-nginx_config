@@ -1,0 +1,33 @@
+server {
+        listen 80 default_server;
+        listen [::]:80 ipv6only=on default_server;
+        server_name localhost;
+
+        root /var/www/html;
+        add_header X-Served-By 130428-web-01;
+
+        location /hbnb_static/ {
+                alias /data/web_static/current/;
+                autoindex off;
+        }
+
+        index index.html index.htm index.nginx-debian.html;
+        rewrite ^/redirect_me https://github.com/Wolleys permanent;
+
+        error_page 404 /custom_404.html;
+
+        location = /custom_404.html {
+                root /usr/share/nginx/html;
+                internal;
+        }
+
+        location /airbnb-onepage/ {
+                include proxy_params;
+                proxy_pass http://127.0.0.1:5000/airbnb-onepage/;
+        }
+
+        location / {
+                try_files $uri $uri/ =404;
+        }
+
+}
